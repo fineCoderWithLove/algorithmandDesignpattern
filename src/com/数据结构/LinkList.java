@@ -1,8 +1,4 @@
-package com.datasruct;
-
-import java.util.ArrayList;
-import java.util.List;
-import java.util.stream.Collectors;
+package com.数据结构;
 
 /**
  * Created with IntelliJ IDEA.

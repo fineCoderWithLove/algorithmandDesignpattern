@@ -1,4 +1,4 @@
-package com.designpattern.day01easyfactory;
+package com.设计模式.简单工厂模式;
 
 /**
  * Created with IntelliJ IDEA.

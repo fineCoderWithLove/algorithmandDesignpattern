@@ -1,4 +1,4 @@
-package com.datasruct;
+package com.数据结构;
 
 /**
  * Created with IntelliJ IDEA.

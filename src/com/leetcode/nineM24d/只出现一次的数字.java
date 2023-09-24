@@ -1,4 +1,4 @@
-package com.leetcode;
+package com.leetcode.nineM24d;
 
 import java.util.HashMap;
 import java.util.Map;
