@@ -29,7 +29,7 @@
 
 #  :date: Task  Everyday
 
-*  **LeetCode * 50  Means everyday need 7  :apple: FirstWeek**
+* **LeetCode * 50  Means everyday need 7  :apple: FirstWeek**
 
 * September 24 :happy: begin **9** Completed, over **2** answer
 
@@ -38,5 +38,8 @@
 * September 26 :tired_face: **7** completed, **1** problem, over **0** answer
 
 * September 27 :cowboy_hat_face: **6** completed,**1** problem,over **0** answer
+* September 28 :cowboy_hat_face: **10** completed,**2** problem,over **2** answer
+ 1. 反转链表(思维)
+ 2. 有序链表的合并(递归)
 
   
