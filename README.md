@@ -41,5 +41,7 @@
 * September 28 :cowboy_hat_face: **10** completed,**2** problem,over **2** answer
  1. 反转链表(思维)
  2. 有序链表的合并(递归)
-
+* September 29 :cowboy_hat_face: **0** completed,**0** problem,over **0** answer, happy midmoonday!!!
+* September 30 :happy: **0** completed,**0** problem,over **0** answer, happy with my best friends!!!
+* October 1 :happy: **0** completed,**0** problem,over **0** answer, 做了设计模式，并未刷题.
   
